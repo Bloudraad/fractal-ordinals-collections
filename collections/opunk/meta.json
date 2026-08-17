@@ -1,9 +1,9 @@
 {
-  "description": "Ordinal Punks consist of a collection of 10,000 unique characters of 24x24 pixels. No Punk is identical to the previous one. They were generated algorithmically, inspired by the London punk aesthetic of the 70s and the Cyberpunk movement.\n\nTypes of Characters\n\nAlthough the majority are humans, the collection contains rarities that make prices skyrocket:\n\n• 6,039 Men and 3,840 Women.\n\n• 88 Zombies (green skin).\n\n• 24 Monkeys (Apes).\n\n• 9 Aliens (light blue skin) — the most coveted on the market.",
+  "description": "Ordinal Punks - Fractal Edition is a generative art tribute collection honoring the iconic aesthetic of CryptoPunks and the legacy of Ordinals pioneers, reimagined specifically for the Fractal Bitcoin blockchain. Merging the charm of 24x24 pixel art with the exceptional speed (30-second block time) and native scalability of Fractal Bitcoin, this collection captures the original cyberpunk spirit of the Web3 movement. Each Punk is inscribed directly and irrevocably onto the satoshis of the Fractal network, guaranteeing absolute permanence and 100% on-chain storage.",
   "discord_link": "https://discord.gg/WUpEZT7x8P",
-  "icon": "3695cac2ff0ce7b1bd9babd076fb732335966f1e6ce42f9dbe2cffa0a108d196i0",
+  "icon": "865a7cf3bebdb17190555cd13c2f4e91f1a0596eafcac9ed0070771ac654e4a0i0",
   "name": "Ordinal Punks",
   "slug": "opunk", 
-  "twitter_link": "https://x.com/demrolabs",
+  "twitter_link": "none",
   "website_link": "https://og.rarible.com/collection/polygon/0xba193df461d83ecb40717d334f30c8b09209a6f4/items"
 }
