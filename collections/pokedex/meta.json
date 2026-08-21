@@ -1,5 +1,7 @@
 {
-  "description": "The ultimate on-chain Pokédex collection featuring 1,025 unique 1/1 digital artifacts permanently inscribed on the Fractal Bitcoin network, covering every National Pokédex species from Gen 1 (#0001 Bulbasaur) to Gen 9 (#1025 Pecharunt).",
+  "description": "Fractal Pokédex Ordinals is a collection of 1,025 unique Pokémon NFTs inscribed on the Fractal Bitcoin blockchain. Each token represents a different Pokémon, from Bulbasaur (#1) to Pecharunt (#1025), with its illustration, name, and key characteristics such as types, abilities, and battle stats.
+
+This collection transforms the Pokédex into a verifiable and permanent digital experience. Each Pokémon is associated with a unique on-chain inscription, allowing for precise identification of its image, metadata, and ID. Fractal Pokédex thus unites the iconic Pokémon universe, digital collecting, and Bitcoin inscription technology in a comprehensive series of 1,025 tokens.",
   "discord_link": "https://discord.gg/WUpEZT7x8P",
   "icon": "681b1c9dc117405898998541d2eb99e82393a4c3f60db6f22606c01bb89b42b0i0",
   "name": "Fractal Pokédex Ordinals",
